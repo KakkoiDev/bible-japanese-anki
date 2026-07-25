@@ -6,10 +6,6 @@ by **[Japanese Bible Study Club](https://www.youtube.com/channel/UClw34zInEmug1B
 vocabulary that turns up constantly in the Japanese Bible and in Japanese
 Christian life, and almost never in a general textbook.
 
-All credit for the vocabulary selection and teaching goes to that channel. This
-repository only rearranges their published wordlists into spaced repetition;
-please watch the lessons, where the words are actually explained.
-
 361 words × 2 cards = **722 cards**, in 15 subdecks.
 
 | | |
@@ -17,6 +13,46 @@ please watch the lessons, where the words are actually explained.
 | Lessons 1–6 | Core faith vocabulary — God, worship, sin, salvation, the church |
 | Lessons 7–11 | Contrasts, relationships, God's names and attributes, Christmas |
 | Lessons 12–15 | Genesis narrative — Creation, Adam and Eve, the Fall, the Flood |
+
+## Credit
+
+**The vocabulary in this deck is not mine.** Every word, reading, rōmaji
+transliteration and English gloss was selected, taught and published by
+**[Japanese Bible Study Club](https://www.youtube.com/channel/UClw34zInEmug1BIJB4xKebQ)**
+in the playlist below. This repository does one thing: it rearranges their
+published wordlists into a spaced-repetition schedule.
+
+**Please watch the lessons.** The videos are where the words are actually
+explained and pronounced by a native speaker; a flashcard only tests what you
+have already learned there. Each subdeck corresponds to one video:
+
+**Playlist: [Bible Japanese vocabulary](https://www.youtube.com/playlist?list=PLAo7ygGmnDLFnu5CcsBRO6GRrCZ5aUJfS)** (15 lessons)
+
+| # | Lesson | Words |
+|---|---|---|
+| 1 | [Lesson 1](https://www.youtube.com/watch?v=zenDNwOcV8E&list=PLAo7ygGmnDLFnu5CcsBRO6GRrCZ5aUJfS) | 20 |
+| 2 | [Lesson 2](https://www.youtube.com/watch?v=A43bZ47WlQg&list=PLAo7ygGmnDLFnu5CcsBRO6GRrCZ5aUJfS) | 20 |
+| 3 | [Lesson 3](https://www.youtube.com/watch?v=CCr7hqhCKV0&list=PLAo7ygGmnDLFnu5CcsBRO6GRrCZ5aUJfS) | 20 |
+| 4 | [Lesson 4](https://www.youtube.com/watch?v=hxfxpUQOTg4&list=PLAo7ygGmnDLFnu5CcsBRO6GRrCZ5aUJfS) | 20 |
+| 5 | [Lesson 5](https://www.youtube.com/watch?v=V5d2lCv-SSc&list=PLAo7ygGmnDLFnu5CcsBRO6GRrCZ5aUJfS) | 20 |
+| 6 | [Lesson 6](https://www.youtube.com/watch?v=6tAvhdHw_hU&list=PLAo7ygGmnDLFnu5CcsBRO6GRrCZ5aUJfS) | 20 |
+| 7 | [Lesson 7](https://www.youtube.com/watch?v=lwcv-kTDkLs&list=PLAo7ygGmnDLFnu5CcsBRO6GRrCZ5aUJfS) | 20 |
+| 8 | [Lesson 8](https://www.youtube.com/watch?v=jwOfLk-XdD8&list=PLAo7ygGmnDLFnu5CcsBRO6GRrCZ5aUJfS) | 20 |
+| 9 | [Lesson 9](https://www.youtube.com/watch?v=5y-lo517Y6c&list=PLAo7ygGmnDLFnu5CcsBRO6GRrCZ5aUJfS) | 19 |
+| 10 | [Lesson 10 — Christmas](https://www.youtube.com/watch?v=CVcJlLJERdY&list=PLAo7ygGmnDLFnu5CcsBRO6GRrCZ5aUJfS) | 20 |
+| 11 | [Lesson 11](https://www.youtube.com/watch?v=9nE_jj34r0Y&list=PLAo7ygGmnDLFnu5CcsBRO6GRrCZ5aUJfS) | 20 |
+| 12 | [Lesson 12 — The Beginning](https://www.youtube.com/watch?v=pq1WkW8DHVs&list=PLAo7ygGmnDLFnu5CcsBRO6GRrCZ5aUJfS) | 44 |
+| 13 | [Lesson 13 — Adam and Eve](https://www.youtube.com/watch?v=O4aNY4B2POE&list=PLAo7ygGmnDLFnu5CcsBRO6GRrCZ5aUJfS) | 41 |
+| 14 | [Lesson 14 — The Fall, Cain and Abel](https://www.youtube.com/watch?v=xT_djWKzh9I&list=PLAo7ygGmnDLFnu5CcsBRO6GRrCZ5aUJfS) | 24 |
+| 15 | [Lesson 15 — Noah, the Flood](https://www.youtube.com/watch?v=7NDqFSWcmbs&list=PLAo7ygGmnDLFnu5CcsBRO6GRrCZ5aUJfS) | 33 |
+
+If you are the channel owner and would prefer this deck not exist, or want the
+credit worded differently, please open an issue — it will be taken down or
+changed.
+
+The audio is *not* from the videos: it is generated with Microsoft Edge
+text-to-speech from the kana readings. Nothing is redistributed from the
+lessons themselves except the vocabulary table.
 
 ## Cards
 

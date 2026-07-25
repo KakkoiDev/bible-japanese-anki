@@ -166,10 +166,24 @@ def main() -> int:
             # "Lesson 01", "Lesson 10 - Christmas": already zero-padded, so
             # Anki's lexical sidebar sort follows the playlist without needing
             # jpanki.subdeck's separate numeric prefix.
-            decks[lesson] = package.add_deck(jpanki.build_deck(
+            deck = jpanki.build_deck(
                 registration.deck_id(lesson),
                 f"{DECK_NAME}::{playlist.label(lesson)}",
-            ))
+            )
+            # Credit travels with the deck, not just the repository — an .apkg
+            # gets shared far from its README, and the vocabulary is the
+            # channel's work.
+            deck.description = (
+                f"Vocabulary taught by {playlist.CHANNEL} in "
+                f'"Bible Japanese vocabulary" lesson {lesson}.<br>'
+                f'Watch the lesson: <a href="{playlist.video_url(lesson)}">'
+                f"{playlist.video_url(lesson)}</a><br>"
+                f'Full playlist: <a href="{playlist.PLAYLIST_URL}">'
+                f"{playlist.PLAYLIST_URL}</a><br><br>"
+                "Cards and audio generated from the channel's published "
+                "wordlist; audio is Microsoft Edge TTS, not from the videos."
+            )
+            decks[lesson] = package.add_deck(deck)
 
         clip = AUDIO / row["audio_word"] if row["audio_word"] else None
         audio_field, media = jpanki.sound_ref(clip)
