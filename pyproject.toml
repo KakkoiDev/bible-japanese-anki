@@ -1,0 +1,21 @@
+[project]
+name = "bible-japanese-anki"
+version = "0.1.0"
+description = "Anki deck for the Japanese Bible vocabulary taught by Japanese Bible Study Club"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jpanki[audio]",
+]
+
+[project.optional-dependencies]
+audio = ["jpanki[audio]"]
+
+[dependency-groups]
+dev = ["pytest>=8.0"]
+
+[tool.uv.sources]
+jpanki = { path = "../jpanki", editable = true }
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

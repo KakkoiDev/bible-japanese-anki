@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Built deck: rebuild with scripts/create_deck.py
+*.apkg
+
+# Generated audio (~4 MB, 361 clips). Regenerate with scripts/generate_audio.py,
+# or publish as a release asset rather than committing binaries.
+audio/
+audio-female/

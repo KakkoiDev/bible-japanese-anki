@@ -1,0 +1,362 @@
+id,lesson,sort_order,japanese,reading,romaji,english,audio_word
+l01-001,1,1,神,かみ,kami,God,w_kami.mp3
+l01-002,1,2,主,しゅ,shu,Lord,w_shu.mp3
+l01-003,1,3,聖霊,せいれい,seirei,Holy Spirit,w_seirei.mp3
+l01-004,1,4,イエス・キリスト,いえす・きりすと,iesu kirisuto,Jesus Christ,w_iesukirisuto.mp3
+l01-005,1,5,愛,あい,ai,love,w_ai.mp3
+l01-006,1,6,喜び,よろこび,yorokobi,joy,w_yorokobi.mp3
+l01-007,1,7,信仰,しんこう,shinkou,faith,w_shinkou.mp3
+l01-008,1,8,希望,きぼう,kibou,hope,w_kibou.mp3
+l01-009,1,9,恵み,めぐみ,megumi,grace,w_megumi.mp3
+l01-010,1,10,あわれみ,あわれみ,awaremi,mercy,w_awaremi.mp3
+l01-011,1,11,罪,つみ,tsumi,sin,w_tsumi.mp3
+l01-012,1,12,赦し,ゆるし,yurushi,forgiveness,w_yurushi.mp3
+l01-013,1,13,十字架,じゅうじか,jyuujika,cross,w_juujika.mp3
+l01-014,1,14,救い,すくい,sukui,salvation,w_sukui.mp3
+l01-015,1,15,永遠のいのち,えいえんのいのち,eien no inochi,eternal life,w_eiennoinochi.mp3
+l01-016,1,16,教会,きょうかい,kyoukai,church,w_kyoukai.mp3
+l01-017,1,17,聖書,せいしょ,seisho,Bible,w_seisho.mp3
+l01-018,1,18,賛美,さんび,sanbi,praise,w_sanbi.mp3
+l01-019,1,19,祈り,いのり,inori,prayer,w_inori.mp3
+l01-020,1,20,礼拝,れいはい,reihai,worship,w_reihai.mp3
+l02-001,2,1,福音,ふくいん,hukuin,gospel,w_fukuin.mp3
+l02-002,2,2,真理,しんり,shinri,truth,w_shinri.mp3
+l02-003,2,3,たましい,たましい,tamashii,soul,w_tamashii.mp3
+l02-004,2,4,弟子,でし,deshi,disciple,w_deshi.mp3
+l02-005,2,5,使徒,しと,shito,apostle,w_shito.mp3
+l02-006,2,6,悪魔,あくま,akuma,demon,w_akuma.mp3
+l02-007,2,7,悪霊,あくれい,akurei,devil,w_akurei.mp3
+l02-008,2,8,サタン,さたん,satan,Satan,w_satan.mp3
+l02-009,2,9,御使い,みつかい,mitsukai,angel,w_mitsukai.mp3
+l02-010,2,10,神の国,かみのくに,kami no kuni,kingdom of God,w_kaminokuni.mp3
+l02-011,2,11,義,ぎ,gi,righteousness,w_gi.mp3
+l02-012,2,12,律法,りっぽう,rippou,law,w_rippou.mp3
+l02-013,2,13,さばき,さばき,sabaki,judgement,w_sabaki.mp3
+l02-014,2,14,贖い,あがない,aganai,redemption,w_aganai.mp3
+l02-015,2,15,平安,へいあん,heian,peace,w_heian.mp3
+l02-016,2,16,祝福,しゅくふく,shukuhuku,blessing,w_shukufuku.mp3
+l02-017,2,17,栄光,えいこう,eikou,glory,w_eikou.mp3
+l02-018,2,18,証し,あかし,akashi,testimony,w_akashi.mp3
+l02-019,2,19,賜物,たまもの,tamamono,gift,w_tamamono.mp3
+l02-020,2,20,バプテスマ,ばぷてすま,baputesuma,Baptism,w_baputesuma.mp3
+l03-001,3,1,安息日,あんそくにち,ansokunichi,sabbath,w_ansokunichi.mp3
+l03-002,3,2,偶像,ぐうぞう,guuzou,idol,w_guuzou.mp3
+l03-003,3,3,割礼,かつれい,katsurei,circumcision,w_katsurei.mp3
+l03-004,3,4,姦淫,かんいん,kanin,adultery,w_kanin.mp3
+l03-005,3,5,復活,ふっかつ,hukkatsu,resurrection,w_fukkatsu.mp3
+l03-006,3,6,義人,ぎじん,gijin,righteous man,w_gijin.mp3
+l03-007,3,7,罪人,つみびと,tsumibito,sinner,w_tsumibito.mp3
+l03-008,3,8,ユダヤ人,ゆだやじん,yudayajin,Jew,w_yudayajin.mp3
+l03-009,3,9,異邦人,いほうじん,ihoujin,gentile,w_ihoujin.mp3
+l03-010,3,10,パリサイ人,ぱりさいびと,parisaibito,Pharisee,w_parisaibito.mp3
+l03-011,3,11,サドカイ人,さどかいびと,sadokaibito,Sadducee,w_sadokaibito.mp3
+l03-012,3,12,レビ人,れびびと,rebibito,Levite,w_rebibito.mp3
+l03-013,3,13,律法学者,りっぽうがくしゃ,rippougakusha,teacher of the law,w_rippougakusha.mp3
+l03-014,3,14,祭司,さいし,saishi,priest,w_saishi.mp3
+l03-015,3,15,大祭司,だいさいし,daisaishi,high priest,w_daisaishi.mp3
+l03-016,3,16,祭司長,さいしちょう,saishichou,chief priest,w_saishichou.mp3
+l03-017,3,17,預言者,よげんしゃ,yogensha,prophet,w_yogensha.mp3
+l03-018,3,18,長老,ちょうろう,chourou,elder,w_chourou.mp3
+l03-019,3,19,百人隊長,ひゃくにんたいちょう,hyakunintaichou,centurion,w_hyakunintaichou.mp3
+l03-020,3,20,千人隊長,せんにんたいちょう,sennintaichou,commander,w_sennintaichou.mp3
+l04-001,4,1,聖所,せいじょ,seijyo,sanctuary,w_seijo.mp3
+l04-002,4,2,至聖所,しせいじょ,siseijyo,the Most Holy Place,w_shiseijo.mp3
+l04-003,4,3,幕屋,まくや,makuya,tabernacle,w_makuya.mp3
+l04-004,4,4,祭壇,さいだん,saidan,altar,w_saidan.mp3
+l04-005,4,5,ささげ物,ささげもの,sasagemono,offering,w_sasagemono.mp3
+l04-006,4,6,いけにえ,いけにえ,ikenie,sacrifice,w_ikenie.mp3
+l04-007,4,7,子羊,こひつじ,kohitsuji,lamb,w_kohitsuji.mp3
+l04-008,4,8,血,ち,chi,blood,w_chi.mp3
+l04-009,4,9,宮,みや,miya,temple,w_miya.mp3
+l04-010,4,10,神殿,しんでん,shinden,temple,w_shinden.mp3
+l04-011,4,11,会堂,かいどう,kaidou,synagogue,w_kaidou.mp3
+l04-012,4,12,民,たみ,tami,people,w_tami.mp3
+l04-013,4,13,群衆,ぐんしゅう,gunshuu,crowd,w_gunshuu.mp3
+l04-014,4,14,子孫,しそん,shison,descendants,w_shison.mp3
+l04-015,4,15,部族,ぶぞく,buzoku,tribe,w_buzoku.mp3
+l04-016,4,16,長子,ちょうし,choushi,firstborn son,w_choushi.mp3
+l04-017,4,17,隣人,となりびと,tonaribito,neighbor,w_tonaribito.mp3
+l04-018,4,18,やもめ,やもめ,yamome,widow,w_yamome.mp3
+l04-019,4,19,取税人,しゅぜいにん,shuzeinin,tax collector,w_shuzeinin.mp3
+l04-020,4,20,偽善者,ぎぜんしゃ,gizensha,hypocrite,w_gizensha.mp3
+l05-001,5,1,知恵,ちえ,chie,wisdom,w_chie.mp3
+l05-002,5,2,知識,ちしき,chishiki,knowledge,w_chishiki.mp3
+l05-003,5,3,行い,おこない,okonai,deed,w_okonai.mp3
+l05-004,5,4,恐れ,おそれ,osore,fear,w_osore.mp3
+l05-005,5,5,怒り,いかり,ikari,wrath,w_ikari.mp3
+l05-006,5,6,宥め,なだめ,nadame,atonement,w_nadame.mp3
+l05-007,5,7,咎,とが,toga,iniquity,w_toga.mp3
+l05-008,5,8,背き,そむき,somuki,transgression,w_somuki.mp3
+l05-009,5,9,悔い改め,くいあらため,kuiaratame,repentance,w_kuiaratame.mp3
+l05-010,5,10,命令,めいれい,meirei,command,w_meirei.mp3
+l05-011,5,11,いましめ,いましめ,imashime,commandment,w_imashime.mp3
+l05-012,5,12,たとえ,たとえ,tatoe,parable,w_tatoe.mp3
+l05-013,5,13,断食,だんじき,danjiki,fast,w_danjiki.mp3
+l05-014,5,14,迫害,はくがい,hakugai,persecution,w_hakugai.mp3
+l05-015,5,15,権威,けんい,keni,authority,w_keni.mp3
+l05-016,5,16,預言,よげん,yogen,prophecy,w_yogen.mp3
+l05-017,5,17,異言,いげん,igen,tongues,w_igen.mp3
+l05-018,5,18,召し,めし,meshi,calling,w_meshi.mp3
+l05-019,5,19,計画,けいかく,keikaku,plan,w_keikaku.mp3
+l05-020,5,20,癒し,いやし,iyashi,healing,w_iyashi.mp3
+l06-001,6,1,感謝,かんしゃ,kansha,thanks,w_kansha.mp3
+l06-002,6,2,願い,ねがい,negai,petition,w_negai.mp3
+l06-003,6,3,平和,へいわ,heiwa,peace,w_heiwa.mp3
+l06-004,6,4,和解,わかい,wakai,reconciliation,w_wakai.mp3
+l06-005,6,5,慰め,なぐさめ,nagusame,comfort,w_nagusame.mp3
+l06-006,6,6,交わり,まじわり,majiwari,fellowship,w_majiwari.mp3
+l06-007,6,7,しるし,しるし,shirushi,sign,w_shirushi.mp3
+l06-008,6,8,幻,まぼろし,maboroshi,vision,w_maboroshi.mp3
+l06-009,6,9,奥義,おくぎ,okugi,mystery,w_okugi.mp3
+l06-010,6,10,霊,れい,rei,spirit,w_rei.mp3
+l06-011,6,11,御霊,みたま,mitama,Spirit,w_mitama.mp3
+l06-012,6,12,御国,みくに,mikuni,kingdom,w_mikuni.mp3
+l06-013,6,13,御名,みな,mina,name,w_mina.mp3
+l06-014,6,14,みこころ,みこころ,mikokoro,will,w_mikokoro.mp3
+l06-015,6,15,みことば,みことば,mikotoba,word,w_mikotoba.mp3
+l06-016,6,16,宣教,せんきょう,senkyou,preach,w_senkyou.mp3
+l06-017,6,17,訓練,くんれん,kunren,discipline,w_kunren.mp3
+l06-018,6,18,試練,しれん,shiren,ordeal,w_shiren.mp3
+l06-019,6,19,忍耐,にんたい,nintai,perseverance,w_nintai.mp3
+l06-020,6,20,謙遜,けんそん,kenson,humility,w_kenson.mp3
+l07-001,7,1,光,ひかり,hikari,light,w_hikari.mp3
+l07-002,7,2,闇,やみ,yami,darkness,w_yami.mp3
+l07-003,7,3,いのち,いのち,inochi,life,w_inochi.mp3
+l07-004,7,4,死,し,shi,death,w_shi.mp3
+l07-005,7,5,善,ぜん,zen,good,w_zen.mp3
+l07-006,7,6,悪,あく,aku,evil,w_aku.mp3
+l07-007,7,7,兄弟,きょうだい,kyoudai,brother,w_kyoudai.mp3
+l07-008,7,8,姉妹,しまい,shimai,sister,w_shimai.mp3
+l07-009,7,9,主人,しゅじん,shujin,master,w_shujin.mp3
+l07-010,7,10,しもべ,しもべ,shimobe,servant,w_shimobe.mp3
+l07-011,7,11,奴隷,どれい,dorei,slave,w_dorei.mp3
+l07-012,7,12,友,とも,tomo,friend,w_tomo.mp3
+l07-013,7,13,敵,てき,teki,enemy,w_teki.mp3
+l07-014,7,14,サマリア人,さまりあじん,samariajin,Samaritan,w_samariajin.mp3
+l07-015,7,15,ぶどう酒,ぶどうしゅ,budoushu,wine,w_budoushu.mp3
+l07-016,7,16,油,あぶら,abura,oil,w_abura.mp3
+l07-017,7,17,香油,こうゆ,kouyu,perfume,w_kouyu.mp3
+l07-018,7,18,道,みち,michi,way,w_michi.mp3
+l07-019,7,19,声,こえ,koe,voice,w_koe.mp3
+l07-020,7,20,荒野,あらの,arano,wilderness,w_arano.mp3
+l08-001,8,1,メシア,めしあ,meshia,Messiah,w_meshia.mp3
+l08-002,8,2,インマヌエル,いんまぬえる,inmanuel,Immanuel,w_inmanueru.mp3
+l08-003,8,3,御父,みちち,michichi,Father *Honorific,w_michichi.mp3
+l08-004,8,4,御子,みこ,miko,Son *Honorific,w_miko.mp3
+l08-005,8,5,天の父,てんのちち,ten no chichi,heavenly Father,w_tennochichi.mp3
+l08-006,8,6,人の子,ひとのこ,hito no ko,Son of Man,w_hitonoko.mp3
+l08-007,8,7,ダビデの子,だびでのこ,dabide no ko,Son of David,w_dabidenoko.mp3
+l08-008,8,8,全能の神,ぜんのうのかみ,zennou no kami,God Almighty,w_zennounokami.mp3
+l08-009,8,9,万軍の主,ばんぐんのしゅ,bangun no shu,Lord Almighty,w_bangunnoshu.mp3
+l08-010,8,10,生ける神,いけるかみ,ikeru kami,Living God,w_ikerukami.mp3
+l08-011,8,11,唯一の神,ゆいいつのかみ,yuiitsu no kami,only God,w_yuiitsunokami.mp3
+l08-012,8,12,大いなる神,おおいなるかみ,ooinaru kami,great God,w_ooinarukami.mp3
+l08-013,8,13,ねたみの神,ねたみのかみ,netami no kami,jealous God,w_netaminokami.mp3
+l08-014,8,14,力ある神,ちからあるかみ,chikara aru kami,Mighty God,w_chikaraarukami.mp3
+l08-015,8,15,永遠の父,えいえんのちち,eien no chichi,Everlasting Father,w_eiennochichi.mp3
+l08-016,8,16,平和の君,へいわのきみ,heiwa no kimi,Prince of Peace,w_heiwanokimi.mp3
+l08-017,8,17,不思議な助言者,ふしぎなじょげんしゃ,hushigi na jyogensha,Wonderful Counselor,w_fushiginajogensha.mp3
+l08-018,8,18,羊飼い,ひつじかい,hitsujikai,shepherd,w_hitsujikai.mp3
+l08-019,8,19,わたしはある,わたしはある,watashi wa aru,I AM,w_watashihaaru.mp3
+l08-020,8,20,王の王、主の主,おうのおう、しゅのしゅ,"ou no ou, shu no shu",KING OF KINGS AND LORD OF LORDS,w_ounooushunoshu.mp3
+l09-001,9,1,創造者,そうぞうしゃ,souzousha,Creator,w_souzousha.mp3
+l09-002,9,2,全能者,ぜんのうしゃ,zennousha,Almighty,w_zennousha.mp3
+l09-003,9,3,仲介者,ちゅうかいしゃ,chuukaisha,mediator,w_chuukaisha.mp3
+l09-004,9,4,審判者,しんぱんしゃ,shinpansha,judge,w_shinpansha.mp3
+l09-005,9,5,良い牧者,よいぼくしゃ,yoi bokusha,good shepherd,w_yoibokusha.mp3
+l09-006,9,6,大牧者,だいぼくしゃ,daibokusha,great Shepherd,w_daibokusha.mp3
+l09-007,9,7,造り主,つくりぬし,tsukurinushi,Creator,w_tsukurinushi.mp3
+l09-008,9,8,救い主,すくいぬし,sukuinushi,savior,w_sukuinushi.mp3
+l09-009,9,9,助け主,たすけぬし,tasukenushi,Advocate,w_tasukenushi.mp3
+l09-010,9,10,贖い主,あがないぬし,aganainushi,Redeemer,w_aganainushi.mp3
+l09-011,9,11,偉大な大祭司,いだいなだいさいし,idaina daisaishi,great high priest,w_idainadaisaishi.mp3
+l09-012,9,12,羊たちの門,ひつじたちのもん,hitsujitachi no mon,gate for the sheep,w_hitsujitachinomon.mp3
+l09-013,9,13,いのちのパン,いのちのぱん,inochi no pan,bread of life,w_inochinopan.mp3
+l09-014,9,14,救いの岩,すくいのいわ,sukui no iwa,Rock of salvation,w_sukuinoiwa.mp3
+l09-015,9,15,聖なる方,せいなるかた,seinaru kata,Holy One,w_seinarukata.mp3
+l09-016,9,16,いと高き方,いとたかきかた,ito takaki kata,Most High,w_itotakakikata.mp3
+l09-017,9,17,ダビデの根,だびでのね,dabide no ne,Root of David,w_dabidenone.mp3
+l09-018,9,18,ユダ族から出た獅子,ゆだぞくからでたしし,yudazoku kara deta shishi,Lion of the tribe of Judah,w_yudazokukaradetashishi.mp3
+l09-019,9,19,あわれみ深く、なさけ深い神,あわれみぶかく、なさけぶかいかみ,"awaremibukaku, nasakebukai kami",compassionate and gracious God,w_awaremibukakunasakebukaikami.mp3
+l10-001,10,1,ユダヤ,ゆだや,yudaya,Judea,w_yudaya.mp3
+l10-002,10,2,ベツレヘム,べつれへむ,betsurehemu,Bethlehem,w_betsurehemu.mp3
+l10-003,10,3,ガリラヤ,がりらや,gariraya,Galilee,w_gariraya.mp3
+l10-004,10,4,ナザレ,なざれ,nazare,Nazareth,w_nazare.mp3
+l10-005,10,5,ダビデの町,だびでのまち,dabide no machi,town of David,w_dabidenomachi.mp3
+l10-006,10,6,皇帝アウグストゥス,こうていあうぐすとぅす,koutei augusutusu,Caesar Augustus,w_kouteiaugusutusu.mp3
+l10-007,10,7,勅令,ちょくれい,chokurei,decree,w_chokurei.mp3
+l10-008,10,8,住民登録,じゅうみんとうろく,jyuumintouroku,census,w_juumintouroku.mp3
+l10-009,10,9,ヘロデ,へろで,herode,Herod,w_herode.mp3
+l10-010,10,10,王,おう,ou,king,w_ou.mp3
+l10-011,10,11,飼葉桶,かいばおけ,kaibaoke,manger,w_kaibaoke.mp3
+l10-012,10,12,布,ぬの,nuno,cloth,w_nuno.mp3
+l10-013,10,13,みどりご,みどりご,midorigo,*baby,w_midorigo.mp3
+l10-014,10,14,いと高き所,いとたかきところ,ito takaki tokoro,the highest heaven,w_itotakakitokoro.mp3
+l10-015,10,15,博士,はかせ,hakase,Magi,w_hakase.mp3
+l10-016,10,16,星,ほし,hoshi,star,w_hoshi.mp3
+l10-017,10,17,夢,ゆめ,yume,dream,w_yume.mp3
+l10-018,10,18,黄金,おうごん,ougon,gold,w_ougon.mp3
+l10-019,10,19,乳香,にゅうこう,nyuukou,frankincense,w_nyuukou.mp3
+l10-020,10,20,没薬,もつやく,motsuyaku,myrrh,w_motsuyaku.mp3
+l11-001,11,1,心,こころ,kokoro,heart,w_kokoro.mp3
+l11-002,11,2,力,ちから,chikara,power,w_chikara.mp3
+l11-003,11,3,世,よ,yo,world,w_yo.mp3
+l11-004,11,4,砦,とりで,toride,fortress,w_toride.mp3
+l11-005,11,5,避け所,さけどころ,sakedokoro,refuge,w_sakedokoro.mp3
+l11-006,11,6,苦難,くなん,kunan,sufferings,w_kunan.mp3
+l11-007,11,7,真実,しんじつ,shinjitsu,faithfulness,w_shinjitsu.mp3
+l11-008,11,8,系図,けいず,keizu,genealogy,w_keizu.mp3
+l11-009,11,9,復讐,ふくしゅう,hukushuu,vengeance,w_fukushuu.mp3
+l11-010,11,10,捕囚,ほしゅう,hoshuu,exile,w_hoshuu.mp3
+l11-011,11,11,警告,けいこく,keikoku,warning,w_keikoku.mp3
+l11-012,11,12,自由,じゆう,jiyuu,freedom,w_jiyuu.mp3
+l11-013,11,13,導き,みちびき,michibiki,guidance,w_michibiki.mp3
+l11-014,11,14,励まし,はげまし,hagemashi,encouragement,w_hagemashi.mp3
+l11-015,11,15,努力,どりょく,doryoku,effort,w_doryoku.mp3
+l11-016,11,16,約束,やくそく,yakusoku,promise,w_yakusoku.mp3
+l11-017,11,17,契約,けいやく,keiyaku,covenant,w_keiyaku.mp3
+l11-018,11,18,誓願,せいがん,seigan,vow,w_seigan.mp3
+l11-019,11,19,奉仕,ほうし,houshi,service,w_houshi.mp3
+l11-020,11,20,収穫,しゅうかく,shuukaku,harvest,w_shuukaku.mp3
+l12-001,12,1,天,てん,ten,heaven,w_ten.mp3
+l12-002,12,2,地,ち,chi,earth/land,w_chi_2.mp3
+l12-003,12,3,夕,ゆう,yuu,evening,w_yuu.mp3
+l12-004,12,4,朝,あさ,asa,morning,w_asa.mp3
+l12-005,12,5,第一日,だいいちにち,dai ichi nichi,the first day,w_daiichinichi.mp3
+l12-006,12,6,大空,おおぞら,oozora,vault,w_oozora.mp3
+l12-007,12,7,水,みず,mizu,water,w_mizu.mp3
+l12-008,12,8,第二日,だいににち,dai ni nichi,the second day,w_daininichi.mp3
+l12-009,12,9,海,うみ,umi,sea,w_umi.mp3
+l12-010,12,10,植物,しょくぶつ,shokubutsu,vegetation,w_shokubutsu.mp3
+l12-011,12,11,種,たね,tane,seed,w_tane.mp3
+l12-012,12,12,草,くさ,kusa,plant,w_kusa.mp3
+l12-013,12,13,実,み,mi,fruit,w_mi.mp3
+l12-014,12,14,種類,しゅるい,shurui,kinds,w_shurui.mp3
+l12-015,12,15,木,き,ki,tree,w_ki.mp3
+l12-016,12,16,第三日,だいさんにち,dai san nichi,the third day,w_daisannichi.mp3
+l12-017,12,17,光る物,ひかるもの,hikarumono,light,w_hikarumono.mp3
+l12-018,12,18,昼,ひる,hiru,day,w_hiru.mp3
+l12-019,12,19,夜,よる,yoru,night,w_yoru.mp3
+l12-020,12,20,時,とき,toki,time,w_toki.mp3
+l12-021,12,21,日,ひ,hi,day,w_hi.mp3
+l12-022,12,22,年,とし,toshi,year,w_toshi.mp3
+l12-023,12,23,星,ほし,hoshi,star,w_hoshi_2.mp3
+l12-024,12,24,第四日,だいよんにち,dai yon nichi,the fourth day,w_daiyonnichi.mp3
+l12-025,12,25,生き物,いきもの,ikimono,living creature,w_ikimono.mp3
+l12-026,12,26,鳥,とり,tori,bird,w_tori.mp3
+l12-027,12,27,海の巨獣,うみのきょじゅう,umi no kyojyuu,great creature of the sea,w_uminokyojuu.mp3
+l12-028,12,28,翼,つばさ,tsubasa,wing,w_tsubasa.mp3
+l12-029,12,29,第五日,だいごにち,dai go nichi,the fifth day,w_daigonichi.mp3
+l12-030,12,30,家畜,かちく,kachiku,livestock,w_kachiku.mp3
+l12-031,12,31,獣,けもの,kemono,wild animal/beast,w_kemono.mp3
+l12-032,12,32,魚,さかな,sakana,fish,w_sakana.mp3
+l12-033,12,33,地の上を這う生き物,ちのうえをはういきもの,chi no ue o hau ikimono,living creature that moves on the ground,w_chinouewohauikimono.mp3
+l12-034,12,34,人,ひと,hito,mankind,w_hito.mp3
+l12-035,12,35,かたち,かたち,katachi,image,w_katachi.mp3
+l12-036,12,36,似姿,にすがた,nisugata,likeness,w_nisugata.mp3
+l12-037,12,37,神のかたち,かみのかたち,kami no katachi,image of God,w_kaminokatachi.mp3
+l12-038,12,38,男,おとこ,otoko,male,w_otoko.mp3
+l12-039,12,39,女,おんな,onna,female,w_onna.mp3
+l12-040,12,40,食物,しょくもつ,shokumotu,food,w_shokumotsu.mp3
+l12-041,12,41,いのち,いのち,inochi,life,w_inochi_2.mp3
+l12-042,12,42,第六日,だいろくにち,dai roku nichi,the sixth day,w_dairokunichi.mp3
+l12-043,12,43,わざ,わざ,waza,work,w_waza.mp3
+l12-044,12,44,第七日,だいななにち,dai nana nichi,the seventh day,w_dainananichi.mp3
+l13-001,13,1,天,あめ,ame,rain,w_ame.mp3
+l13-002,13,2,大地,だいち,daichi,ground,w_daichi.mp3
+l13-003,13,3,ちり,ちり,chiri,dust,w_chiri.mp3
+l13-004,13,4,大地のちり,だいちのちり,daichi no chiri,dust of the ground,w_daichinochiri.mp3
+l13-005,13,5,鼻,はな,hana,nostrils,w_hana.mp3
+l13-006,13,6,いのちの息,いのちのいき,inochi no iki,breath of life,w_inochinoiki.mp3
+l13-007,13,7,生きるもの,いきるもの,ikirumono,living being,w_ikirumono.mp3
+l13-008,13,8,神である主,かみであるしゅ,kami de aru shu,kami de aru shu,w_kamidearushu.mp3
+l13-009,13,9,東,ひがし,higasi,east,w_higashi.mp3
+l13-010,13,10,エデン,えでん,eden,eden,w_eden.mp3
+l13-011,13,11,園,その,sono,garden,w_sono.mp3
+l13-012,13,12,土地,とち,tochi,ground,w_tochi.mp3
+l13-013,13,13,中央,ちゅうおう,chuuou,middle,w_chuuou.mp3
+l13-014,13,14,いのちの木,いのちのき,inochi no ki,tree of life,w_inochinoki.mp3
+l13-015,13,15,善悪,ぜんあく,zenaku,good and evil,w_zenaku.mp3
+l13-016,13,16,善悪の知識の木,ぜんあくのちしきのき,zen aku no chishiki no ki,tree of the knowledge of good and evil,w_zenakunochishikinoki.mp3
+l13-017,13,17,川,かわ,kawa,river,w_kawa.mp3
+l13-018,13,18,源流,げんりゅう,genryuu,headwaters,w_genryuu.mp3
+l13-019,13,19,ピション,ぴしょん,pishon,Pishon,w_pishon.mp3
+l13-020,13,20,ギホン,ぎほん,gihon,Gihon,w_gihon.mp3
+l13-021,13,21,ティグリス,てぃぐりす,tyigurisu,Tigris,w_tigurisu.mp3
+l13-022,13,22,ユーフラティス,ゆーふらてぃす,yuuhuratyisu,Euphrates,w_yuufuratisu.mp3
+l13-023,13,23,助け手,たすけて,tasukete,helper,w_tasukete.mp3
+l13-024,13,24,ふさわしい助け手,ふさわしいたすけて,husawashii tashukete,suitable helper,w_fusawashiitasukete.mp3
+l13-025,13,25,空,そら,sora,sky,w_sora.mp3
+l13-026,13,26,アダム,あだむ,adamu,Adam,w_adamu.mp3
+l13-027,13,27,エバ,えば,eba,Eve,w_eba.mp3
+l13-028,13,28,眠り,ねむり,nemuri,sleep,w_nemuri.mp3
+l13-029,13,29,骨,ほね,hone,bone,w_hone.mp3
+l13-030,13,30,肉,にく,niku,flesh,w_niku.mp3
+l13-031,13,31,父,ちち,chichi,father,w_chichi.mp3
+l13-032,13,32,母,はは,haha,mother,w_haha.mp3
+l13-033,13,33,夫,おっと,otto,husband,w_otto.mp3
+l13-034,13,34,妻,つま,tsuma,wife,w_tsuma.mp3
+l13-035,13,35,彼,かれ,kare,he,w_kare.mp3
+l13-036,13,36,彼女,かのじょ,kanojyo,she,w_kanojo.mp3
+l13-037,13,37,裸,はだか,hadaka,naked,w_hadaka.mp3
+l13-038,13,38,蛇,へび,hebi,serpent,w_hebi.mp3
+l13-039,13,39,目,め,me,eye,w_me.mp3
+l13-040,13,40,いちじくの葉,いちじくのは,ichijiku no ha,fig leaf,w_ichijikunoha.mp3
+l13-041,13,41,覆い,おおい,ooi,covering,w_ooi.mp3
+l14-001,14,1,音,おと,oto,sound,w_oto.mp3
+l14-002,14,2,あなた,あなた,anata,you,w_anata.mp3
+l14-003,14,3,おまえ,おまえ,omae,you,w_omae.mp3
+l14-004,14,4,敵意,てきい,tekii,enmity,w_tekii.mp3
+l14-005,14,5,子孫,しそん,shison,offspring,w_shison_2.mp3
+l14-006,14,6,頭,あたま,atama,head,w_atama.mp3
+l14-007,14,7,かかと,かかと,kakato,heel,w_kakato.mp3
+l14-008,14,8,茨,いばら,ibara,thorn,w_ibara.mp3
+l14-009,14,9,あざみ,あざみ,azami,thistle,w_azami.mp3
+l14-010,14,10,糧,かて,kate,food,w_kate.mp3
+l14-011,14,11,皮の衣,かわのころも,kawa no koromo,garment of skin,w_kawanokoromo.mp3
+l14-012,14,12,いのちの木,いのちのき,inochi no ki,tree of life,w_inochinoki_2.mp3
+l14-013,14,13,炎の剣,ほのおのつるぎ,honoo no tsurugi,flaming sword,w_honoonotsurugi.mp3
+l14-014,14,14,カイン,かいん,kain,Cain,w_kain.mp3
+l14-015,14,15,アベル,あべる,aberu,Able,w_aberu.mp3
+l14-016,14,16,野,の,no,field,w_no.mp3
+l14-017,14,17,番人,ばんにん,bannin,keeper,w_bannin.mp3
+l14-018,14,18,作物,さくもつ,sakumotsu,crop,w_sakumotsu.mp3
+l14-019,14,19,エノク,えのく,enoku,Enoch,w_enoku.mp3
+l14-020,14,20,町,まち,machi,city,w_machi.mp3
+l14-021,14,21,天幕,てんまく,tenmaku,tent,w_tenmaku.mp3
+l14-022,14,22,セツ,せつ,setsu,Seth,w_setsu.mp3
+l14-023,14,23,息子,むすこ,musuko,son,w_musuko.mp3
+l14-024,14,24,娘,むすめ,musume,daughter,w_musume.mp3
+l15-001,15,1,歴史,れきし,rekishui,account,w_rekishi.mp3
+l15-002,15,2,ノア,のあ,noa,Noah,w_noa.mp3
+l15-003,15,3,セム,セム,semu,Shem,w_semu.mp3
+l15-004,15,4,ハム,はむ,hamu,Ham,w_hamu.mp3
+l15-005,15,5,ヤフェテ,やふぇて,yafete,Japheth,w_yafete.mp3
+l15-006,15,6,ネフィリム,ねふぃりむ,nefirimu,Nephilim,w_nefirimu.mp3
+l15-007,15,7,勇士,ゆうし,yuushi,hero,w_yuushi.mp3
+l15-008,15,8,暴虐,ぼうぎゃく,bougyaku,violence,w_bougyaku.mp3
+l15-009,15,9,ゴフェルの木,ごふぇるのき,goferu no ki,cypress wood,w_goferunoki.mp3
+l15-010,15,10,箱舟,はこぶね,hakobune,ark,w_hakobune.mp3
+l15-011,15,11,部屋,へや,heya,room,w_heya.mp3
+l15-012,15,12,タール,たある,taaru,pitch,w_taaru.mp3
+l15-013,15,13,キュビト,きゅびと,kyubito,cubit,w_kyubito.mp3
+l15-014,15,14,大洪水,だいこうずい,daikouzui,flood water,w_daikouzui.mp3
+l15-015,15,15,雄,おす,osu,male,w_osu.mp3
+l15-016,15,16,雌,めす,mesu,female,w_mesu.mp3
+l15-017,15,17,きよい動物,きよいどうぶつ,kiyoi doubutsu,clean animal,w_kiyoidoubutsu.mp3
+l15-018,15,18,きよくない動物,きよくないどうぶつ,kiyokunai doubutsu,unclean animal,w_kiyokunaidoubutsu.mp3
+l15-019,15,19,つがい,つがい,tsugai,pair,w_tsugai.mp3
+l15-020,15,20,四十日四十夜,よんじゅうにちよんじゅうや,yonjyuu nichi yon jyuuya,forty days and forty nights,w_yonjuunichiyonjuuya.mp3
+l15-021,15,21,戸,と,to,door,w_to.mp3
+l15-022,15,22,風,かぜ,kaze,wind,w_kaze.mp3
+l15-023,15,23,大いなる淵の源,おおいなるふちのみなもと,ooinaru fuchi no minamoto,springs of the deep,w_ooinarufuchinominamoto.mp3
+l15-024,15,24,天の水門,てんのすいもん,ten no suimon,floodgates of the heavens,w_tennosuimon.mp3
+l15-025,15,25,アララテの山地,あららてのさんち,ararate no sanchi,mountains of Ararat,w_araratenosanchi.mp3
+l15-026,15,26,頂き,いただき,itadaki,top,w_itadaki.mp3
+l15-027,15,27,窓,まど,mado,window,w_mado.mp3
+l15-028,15,28,烏,からす,karasu,raven,w_karasu.mp3
+l15-029,15,29,鳩,はと,hato,dove,w_hato.mp3
+l15-030,15,30,くちばし,くちばし,kuchibashi,beak,w_kuchibashi.mp3
+l15-031,15,31,オリーブの若葉,おりーぶのわかば,oriibu no wakaba,olive leaf,w_oriibunowakaba.mp3
+l15-032,15,32,香り,かおり,kaori,aroma,w_kaori.mp3
+l15-033,15,33,虹,にじ,niji,rainbow,w_niji.mp3
