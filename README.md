@@ -66,6 +66,24 @@ There are deliberately no example sentences: the source wordlists contain none,
 and 361 invented sentences would each need pronunciation and grammar review.
 An unreviewed example sentence teaches mistakes convincingly.
 
+### Why there are no Bible verses on the cards
+
+Considered and declined, for two reasons worth writing down.
+
+The wordlists carry no verse references — across all fifteen descriptions there
+are two digits total, both from "Here is No. 5" style greetings. So there is
+nothing in the source to attribute a word to a verse, and a guessed citation in a
+study deck is worse than none.
+
+Adding them from elsewhere runs into copyright: the modern Japanese translations
+(新改訳2017, 聖書協会共同訳, 新共同訳) are all under copyright, so their text
+cannot be redistributed here. The public-domain alternative is the 1887 文語訳,
+but it is classical Japanese in pre-reform orthography — 教會 for 教会, 禮拜 for
+礼拝 — which would teach a modern learner the wrong written forms, and even for
+the Genesis lessons only 48 of 85 headwords appear in it verbatim.
+
+The videos supply the context. This deck is the recall drill.
+
 ## Where the content comes from
 
 The channel publishes each lesson's wordlist in the **video description**, so
