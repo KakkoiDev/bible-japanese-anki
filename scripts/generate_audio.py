@@ -18,7 +18,7 @@ import asyncio
 import sys
 from pathlib import Path
 
-from jpanki import tts, validate
+from jp_core import tts, validate
 
 ROOT = Path(__file__).parent.parent
 WORDS = ROOT / "data" / "words.csv"

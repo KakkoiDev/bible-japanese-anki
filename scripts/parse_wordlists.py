@@ -37,7 +37,7 @@ COLUMNS = [
 
 
 def collect() -> tuple[list[dict[str, str]], list[parser.Problem]]:
-    from jpanki import romaji as romaji_lib
+    from jp_core import romaji as romaji_lib
 
     rows: list[dict[str, str]] = []
     problems: list[parser.Problem] = []

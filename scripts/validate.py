@@ -13,7 +13,7 @@ import argparse
 import sys
 from pathlib import Path
 
-from jpanki import furigana, romaji, validate
+from jp_core import furigana, romaji, validate
 
 sys.path.insert(0, str(Path(__file__).parent))
 from lib import playlist  # noqa: E402

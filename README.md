@@ -158,7 +158,7 @@ tell which word went missing.
 
 ## Built on
 
-[jpanki](https://github.com/KakkoiDev/jpanki) — shared Japanese Anki deck
+[jp_core](https://github.com/KakkoiDev/jp-core) — shared Japanese Anki deck
 machinery (furigana, card CSS, Edge TTS, stable IDs), extracted from
 [minihongo](https://github.com/KakkoiDev/minihongo) and
 [nihongo-it-anki](https://github.com/KakkoiDev/nihongo-it-anki). This deck was

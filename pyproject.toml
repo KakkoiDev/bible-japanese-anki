@@ -5,11 +5,11 @@ description = "Anki deck for the Japanese Bible vocabulary taught by Japanese Bi
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "jpanki[audio]",
+    "jp-core[audio]",
 ]
 
 [project.optional-dependencies]
-audio = ["jpanki[audio]"]
+audio = ["jp-core[audio]"]
 
 [dependency-groups]
 dev = ["pytest>=8.0"]
@@ -18,7 +18,7 @@ dev = ["pytest>=8.0"]
 # Pinned to a revision rather than tracking main: a library change can alter
 # how cards render, and that should be a deliberate bump with a rebuild and a
 # deck comparison, never something a fresh `uv sync` picks up silently.
-jpanki = { git = "https://github.com/KakkoiDev/jpanki", rev = "fb583233d5bc414b0e2fe6d63f04154b9528606c" }
+"jp-core" = { git = "https://github.com/KakkoiDev/jp-core", rev = "ba0ba55401c5925e4d817c27c91d699f579e77ee" }
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

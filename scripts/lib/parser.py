@@ -160,7 +160,7 @@ def _first_romaji(romaji: str) -> str:
     the same word spelled differently — otherwise it is punctuation inside a
     multi-part reading (``ou no ou, shu no shu``) and must be kept.
     """
-    from jpanki import romaji as romaji_lib
+    from jp_core import romaji as romaji_lib
 
     romaji = normalize(romaji)
     if not romaji:

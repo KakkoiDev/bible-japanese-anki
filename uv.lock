@@ -156,12 +156,12 @@ name = "bible-japanese-anki"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
-    { name = "jpanki", extra = ["audio"] },
+    { name = "jp-core", extra = ["audio"] },
 ]
 
 [package.optional-dependencies]
 audio = [
-    { name = "jpanki", extra = ["audio"] },
+    { name = "jp-core", extra = ["audio"] },
 ]
 
 [package.dev-dependencies]
@@ -171,8 +171,8 @@ dev = [
 
 [package.metadata]
 requires-dist = [
-    { name = "jpanki", extras = ["audio"], git = "https://github.com/KakkoiDev/jpanki?rev=fb583233d5bc414b0e2fe6d63f04154b9528606c" },
-    { name = "jpanki", extras = ["audio"], marker = "extra == 'audio'", git = "https://github.com/KakkoiDev/jpanki?rev=fb583233d5bc414b0e2fe6d63f04154b9528606c" },
+    { name = "jp-core", extras = ["audio"], git = "https://github.com/KakkoiDev/jp-core?rev=ba0ba55401c5925e4d817c27c91d699f579e77ee" },
+    { name = "jp-core", extras = ["audio"], marker = "extra == 'audio'", git = "https://github.com/KakkoiDev/jp-core?rev=ba0ba55401c5925e4d817c27c91d699f579e77ee" },
 ]
 provides-extras = ["audio"]
 
@@ -378,9 +378,9 @@ wheels = [
 ]
 
 [[package]]
-name = "jpanki"
+name = "jp-core"
 version = "0.1.0"
-source = { git = "https://github.com/KakkoiDev/jpanki?rev=fb583233d5bc414b0e2fe6d63f04154b9528606c#fb583233d5bc414b0e2fe6d63f04154b9528606c" }
+source = { git = "https://github.com/KakkoiDev/jp-core?rev=ba0ba55401c5925e4d817c27c91d699f579e77ee#ba0ba55401c5925e4d817c27c91d699f579e77ee" }
 dependencies = [
     { name = "genanki" },
 ]
