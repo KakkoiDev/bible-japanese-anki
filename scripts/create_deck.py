@@ -19,8 +19,7 @@ import argparse
 import sys
 from pathlib import Path
 
-import jp_core
-from jp_core import furigana, ids, theme, validate
+from jp_core import anki, furigana, ids, theme, validate
 
 sys.path.insert(0, str(Path(__file__).parent))
 from lib import playlist  # noqa: E402
@@ -143,20 +142,20 @@ def main() -> int:
     css = build_css()
     model_id = registration.model_id
     if args.force_style:
-        model_id = jp_core.force_style(model_id, css)
+        model_id = anki.force_style(model_id, css)
         print(f"--force-style: model ID {registration.model_id} -> {model_id} "
               f"(this resets review history for every note)")
 
-    spec = jp_core.NoteSpec(
+    spec = anki.NoteSpec(
         name=f"{DECK_NAME} Vocab",
         model_id=model_id,
         fields=FIELDS,
         templates=TEMPLATES,
         css=css,
     )
-    model = jp_core.build_model(spec)
+    model = anki.build_model(spec)
 
-    package = jp_core.Package()
+    package = anki.Package()
     decks: dict[int, object] = {}
     missing_audio = 0
 
@@ -166,7 +165,7 @@ def main() -> int:
             # "Lesson 01", "Lesson 10 - Christmas": already zero-padded, so
             # Anki's lexical sidebar sort follows the playlist without needing
             # jp_core.subdeck's separate numeric prefix.
-            deck = jp_core.build_deck(
+            deck = anki.build_deck(
                 registration.deck_id(lesson),
                 f"{DECK_NAME}::{playlist.label(lesson)}",
             )
@@ -186,7 +185,7 @@ def main() -> int:
             decks[lesson] = package.add_deck(deck)
 
         clip = AUDIO / row["audio_word"] if row["audio_word"] else None
-        audio_field, media = jp_core.sound_ref(clip)
+        audio_field, media = anki.sound_ref(clip)
         if not audio_field:
             missing_audio += 1
         package.add_media(media)
@@ -204,7 +203,7 @@ def main() -> int:
             ],
             # Keyed on lesson + written form: the gloss, reading and rōmaji can
             # all be corrected without orphaning a learner's review history.
-            guid=jp_core.note_guid(SLUG, lesson, row["japanese"]),
+            guid=anki.note_guid(SLUG, lesson, row["japanese"]),
             tags=[f"lesson{lesson:02d}"],
         ))
 
