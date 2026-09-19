@@ -171,8 +171,8 @@ dev = [
 
 [package.metadata]
 requires-dist = [
-    { name = "jp-core", extras = ["audio"], git = "https://github.com/KakkoiDev/jp-core?rev=ba0ba55401c5925e4d817c27c91d699f579e77ee" },
-    { name = "jp-core", extras = ["audio"], marker = "extra == 'audio'", git = "https://github.com/KakkoiDev/jp-core?rev=ba0ba55401c5925e4d817c27c91d699f579e77ee" },
+    { name = "jp-core", extras = ["audio"], git = "https://github.com/KakkoiDev/jp-core?rev=211c0b079bbc18925b3ba2976f78c74b15cf1cc7" },
+    { name = "jp-core", extras = ["audio"], marker = "extra == 'audio'", git = "https://github.com/KakkoiDev/jp-core?rev=211c0b079bbc18925b3ba2976f78c74b15cf1cc7" },
 ]
 provides-extras = ["audio"]
 
@@ -379,8 +379,8 @@ wheels = [
 
 [[package]]
 name = "jp-core"
-version = "0.1.0"
-source = { git = "https://github.com/KakkoiDev/jp-core?rev=ba0ba55401c5925e4d817c27c91d699f579e77ee#ba0ba55401c5925e4d817c27c91d699f579e77ee" }
+version = "0.2.0"
+source = { git = "https://github.com/KakkoiDev/jp-core?rev=211c0b079bbc18925b3ba2976f78c74b15cf1cc7#211c0b079bbc18925b3ba2976f78c74b15cf1cc7" }
 dependencies = [
     { name = "genanki" },
 ]
